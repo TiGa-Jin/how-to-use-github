@@ -28,7 +28,8 @@ Thank `You` . Please `Call` Me `Coder` <br>
 效果：[程序羊的github](https://github.com/hansonwang99/JavaCollection)
 #### 插入符号
 ##### 圆点符
-例子：
+语法：\* 加词或句子<br>
+例子：<br>
 \* 昵称：迪迦 <br> 
 \* 别名：奥特曼 <br> 
 \* 英文名：TiGa <br>
