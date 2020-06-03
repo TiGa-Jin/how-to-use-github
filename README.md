@@ -25,7 +25,9 @@ Thank `You` . Please `Call` Me `Coder` <br>
 #### 文字超链接
 语法为\[文字](链接)<br>
 如：\[程序羊的github](https://github.com/hansonwang99/JavaCollection)<br>
-效果：[程序羊的github](https://github.com/hansonwang99/JavaCollection)
+效果：[程序羊的github](https://github.com/hansonwang99/JavaCollection)<br>
+鼠标悬停显示提示信息，即在URL之后 用双引号括起来一个字符串。同样要注意这里是英文双引号。<br>
+如：\[程序羊的github](https://github.com/hansonwang99/JavaCollection"程序羊的Java学习路线")<br>
 #### 层级结构
 ##### 一级结构
 语法：\* 加词或句子, 要注意的是星号* 后面要有一个空格。否则显示为普通星号<br>
@@ -63,10 +65,17 @@ Tab Tab Tab Tab\* Javascript<br>
 >>>>平衡二叉树  
 >>>>>满二叉树
 ##### 本页面节点跳转
-语法：\[内容](#节点名)
-例子：
+语法：\[内容](#节点名)<br>
+例子：<br>
 \[跳到显示文本](#显示文本)<br>
 \[回到顶部](#readme)<br>
 效果：
-[跳到显示文本](#显示文本)<br>
-[回到顶部](#readme)<br>
+[跳到显示文本](#显示文本) <br>
+[回到顶部](#readme) <br>
+### 插入图片
+* 来源于网络的图片 <br>
+基本的语法:叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL<br>
+例子：\![baidu](http://www.baidu.com/img/bdlogo.gif)<br>
+效果：<br>
+![baidu](http://www.baidu.com/img/bdlogo.gif)
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
