@@ -75,7 +75,8 @@ Tab Tab Tab Tab\* Javascript<br>
 ### 插入图片
 * 来源于网络的图片 <br>
 基本的语法:叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL<br>
-例子：\![baidu](http://www.baidu.com/img/bdlogo.gif)<br>
-效果：<br>
+例子1：\!\[baidu](http://www.baidu.com/img/bdlogo.gif)<br>
+例子2：\!\[baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+效果：右图在<br>
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
