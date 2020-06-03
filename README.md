@@ -24,5 +24,15 @@ Thank `You` . Please `Call` Me `Coder` <br>
 我的`名字`叫`罗晋`
 #### 文字超链接
 语法为\[文字](链接)<br>
-如：\[程序羊的github](https://github.com/hansonwang99/JavaCollection)
+如：\[程序羊的github](https://github.com/hansonwang99/JavaCollection)<br>
 效果：[程序羊的github](https://github.com/hansonwang99/JavaCollection)
+#### 插入符号
+##### 圆点符
+例子：
+\* 昵称：迪迦 <br> 
+\* 别名：奥特曼 <br> 
+\* 英文名：TiGa <br>
+效果：<br>
+* 昵称：迪迦 <br> 
+* 别名：奥特曼 <br> 
+* 英文名：TiGa <br>
