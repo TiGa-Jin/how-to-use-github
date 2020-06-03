@@ -28,7 +28,7 @@ Thank `You` . Please `Call` Me `Coder` <br>
 效果：[程序羊的github](https://github.com/hansonwang99/JavaCollection)
 #### 层级结构
 ##### 一级结构
-语法：\* 加词或句子<br>
+语法：\* 加词或句子, 要注意的是星号* 后面要有一个空格。否则显示为普通星号<br>
 例子：<br>
 \* 昵称：迪迦 <br> 
 \* 别名：奥特曼 <br> 
@@ -47,4 +47,4 @@ Tab Tab\* Python<br>
 * 编程语言  <br> 
   * 脚本语言  <br> 
     * Python <br>
-  *Javascript <br>
+    * Javascript <br>
