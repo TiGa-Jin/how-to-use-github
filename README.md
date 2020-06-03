@@ -23,4 +23,5 @@
 Thank `You` . Please `Call` Me `Coder` <br>
 我的`名字`叫`罗晋`
 #### 文字超链接
-语法为\[我的博客](http://blog.csdn.net/guodongxiaren)
+语法为\[文字](链接)<br>
+效果如[程序羊的github](https://github.com/hansonwang99/JavaCollection)
