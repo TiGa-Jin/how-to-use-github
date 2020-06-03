@@ -45,6 +45,6 @@ Tab \* 脚本语言  <br>
 Tab Tab\* Python<br> 
 效果：
 * 编程语言  <br> 
-  * 脚本语言  <br> 
-    * Python <br>
-    *Javascript <br>
+ * 脚本语言  <br> 
+  * Python <br>
+  *Javascript <br>
