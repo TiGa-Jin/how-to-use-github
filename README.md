@@ -81,3 +81,4 @@ Tab Tab Tab Tab\* Javascript<br>
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 * GitHub仓库里的图片 <br>
+![GitHub](https://github.com/luojin1010/how-to-use-github/迪迦头像.JPG)
