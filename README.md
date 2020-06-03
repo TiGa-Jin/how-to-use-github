@@ -38,13 +38,27 @@ Thank `You` . Please `Call` Me `Coder` <br>
 * 别名：奥特曼 <br> 
 * 英文名：TiGa <br>
 ##### 多级结构
-如二级圆点和三级。就是多加一个Tab <br>
+如二级圆点和三级。就是多加一个2个Tab <br>
 例子：<br>
 \* 编程语言  <br> 
-Tab \* 脚本语言  <br> 
-Tab Tab\* Python<br> 
+Tab Tab\* 脚本语言  <br> 
+Tab Tab Tab Tab\* Python<br> 
+Tab Tab Tab Tab\* Javascript<br> 
 效果：
 * 编程语言  <br> 
   * 脚本语言  <br> 
     * Python <br>
     * Javascript <br>
+##### 缩进
+语法：>加句子或词
+例子：
+\>数据结构  
+\>>树  
+\>>>二叉树  
+\>>>>平衡二叉树  
+效果：
+>数据结构  
+>>树  
+>>>二叉树  
+>>>>平衡二叉树  
+>>>>>满二叉树
